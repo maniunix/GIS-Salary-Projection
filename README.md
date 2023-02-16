@@ -6,3 +6,8 @@ General Steps includes :-
 * Data Cleaning
 * Data Wrangling
 * Exploratory Data Analysis
+
+| Variables considered for _Model_
+
+|Variables| Type|
+-------|--------|
