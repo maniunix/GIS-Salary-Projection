@@ -7,9 +7,9 @@ General Steps includes :-
 * Data Wrangling
 * Exploratory Data Analysis
 
-| Variables considered for _Model_
+ Variables considered for Model
 
-|Variables| Type|
+|`Variables`| `Type`|
 -------|--------|
 | Company | Str|
 | Position | Str|
