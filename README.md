@@ -11,3 +11,11 @@ General Steps includes :-
 
 |Variables| Type|
 -------|--------|
+| Company | Str|
+-------|--------|
+| Position | Str|
+-------|--------|
+| Place | Str |
+-------|--------|
+| Salary | Int |
+-------|--------|
