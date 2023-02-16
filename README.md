@@ -9,9 +9,9 @@ General Steps includes :-
 
  Variables considered for Model
 
-|`Variables`| `Type`|
+|Variables|Type|
 -------|--------|
-| Company | Str|
-| Position | Str|
-| Place | Str |
-| Salary | Int |
+| `Company` | `Str`|
+| `Position` | `Str`|
+| `Place` | `Str` |
+| `Salary` | `Int` |
